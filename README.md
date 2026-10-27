@@ -160,4 +160,4 @@ Direct Python launches reuse `input_model/chroma_db/`. Audio and frames are save
 | [statistical_analysis/](statistical_analysis/) | Comparison notebook and study figures |
 | [modalities_experiments/](modalities_experiments/) | Earlier experiments with individual components |
 
-The [analysis notebook](statistical_analysis/statistical_analysis.ipynb) examines perceived empathy and rapport using the RoPE and CCR questionnaires. Its input workbook, `data.xlsx`, is not included in the repository, so reproducing the analysis requires that data separately.
+The [analysis notebook](statistical_analysis/statistical_analysis.ipynb) examines perceived empathy and rapport using the RoPE and CCR questionnaires.
